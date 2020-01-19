@@ -1,3 +1,9 @@
+"""
+Author : El-Hacker 
+Youtube Channel : https://www.youtube.com/channel/UCh_6UHjyPWiyC5IRyOadojA
+Title: Flappy Bird for AI
+"""
+
 import pygame
 import math
 import random
